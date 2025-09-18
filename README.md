@@ -90,3 +90,12 @@ These results significantly outperform traditional algorithms like Random Forest
 - Develop adaptive models for evolving fraud patterns.
 
 - Collaborate with financial institutions for deployment.
+
+## ⭐ Closing Notes
+
+This project demonstrates how **AI + optimization + explainability** can improve fraud detection to enterprise-grade accuracy.  
+
+By integrating **PSO, GA, Deep Learning, and XAI (LIME & SHAP)**, we’ve shown that financial fraud detection can be both **highly accurate** and **transparent**.  
+
+We welcome contributions, suggestions, and collaborations to extend this work further.  
+If you find this useful, please ⭐ star the repository to support the project!
