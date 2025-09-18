@@ -65,17 +65,17 @@ These results significantly outperform traditional algorithms like Random Forest
 
 # 🛠️ Tech Stack
 
-Languages: Python
-Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, XGBoost, Imbalanced-learn, Matplotlib, Seaborn, LIME, SHAP
-Optimization: Genetic Algorithms, Particle Swarm Optimization
+- Languages: Python
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, XGBoost, Imbalanced-learn, Matplotlib, Seaborn, LIME, SHAP
+- Optimization: Genetic Algorithms, Particle Swarm Optimization
 
 # 📂 Project Structure
 
-AI_FRAUD_DETECTION.ipynb    # Main notebook with implementation
-AI_FRAUD_DETECTION.pdf      # Project report
-AI_FRAUD_DETECTION.pptx     # Presentation
-requirements.txt            # modules needed to install
-README.md                   # Documentation (this file)
+- AI_FRAUD_DETECTION.ipynb    # Main notebook with implementation
+- AI_FRAUD_DETECTION.pdf      # Project report
+- AI_FRAUD_DETECTION.pptx     # Presentation
+- requirements.txt            # modules needed to install
+- README.md                   # Documentation (this file)
 
 # 📹 Demo
 
@@ -83,10 +83,10 @@ README.md                   # Documentation (this file)
 
 # 🔮 Future Scope
 
-Validate models on real-world datasets beyond Visegrad companies.
+- Validate models on real-world datasets beyond Visegrad companies.
 
-Extend fraud detection to blockchain, IoT, and healthcare domains.
+- Extend fraud detection to blockchain, IoT, and healthcare domains.
 
-Develop adaptive models for evolving fraud patterns.
+- Develop adaptive models for evolving fraud patterns.
 
-Collaborate with financial institutions for deployment.
+- Collaborate with financial institutions for deployment.
