@@ -6,13 +6,13 @@ This project implements an advanced AI-driven fraud detection framework for fina
 
 Fraudulent activities pose a significant risk to financial institutions. Traditional methods often fail to keep pace with sophisticated fraud tactics. This project introduces a hybrid probabilistic model that combines:
 
-### Particle Swarm Optimization (PSO)
+- **Particle Swarm Optimization (PSO)**
 
-### Genetic Algorithms (GA)
+- **Genetic Algorithms (GA)**
 
-### Ensemble Learning
+- **Ensemble Learning**
 
-### Deep Learning (CNN, LSTM, Dense models)
+- **Deep Learning (CNN, LSTM, Dense models)**
 
 The model is tested on financial datasets of Visegrad companies, addressing challenges of imbalanced data and enhancing interpretability.
 
