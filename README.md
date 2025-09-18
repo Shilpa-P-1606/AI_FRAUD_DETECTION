@@ -20,46 +20,46 @@ The model is tested on financial datasets of Visegrad companies, addressing chal
 
 ## Data Preprocessing
 
-Missing value handling, categorical encoding, feature scaling.
+- Missing value handling, categorical encoding, feature scaling.
 
-Class balancing using SMOTE/ADASYN.
+- Class balancing using SMOTE/ADASYN.
 
 ## Exploratory Data Analysis (EDA)
 
-Univariate, bivariate, and multivariate analysis.
+- Univariate, bivariate, and multivariate analysis.
 
-Correlation heatmaps and feature engineering.
+- Correlation heatmaps and feature engineering.
 
 ## Model Development
 
-Baseline models: Logistic Regression, Random Forest, XGBoost, Gradient Boosting.
+- Baseline models: Logistic Regression, Random Forest, XGBoost, Gradient Boosting.
 
-Advanced models: CNN, LSTM, Dense Neural Nets.
+- Advanced models: CNN, LSTM, Dense Neural Nets.
 
-Optimization with PSO & GA for ensemble classifiers.
+- Optimization with PSO & GA for ensemble classifiers.
 
 ## Model Interpretability
 
-LIME: Local instance-level explanations.
+- LIME: Local instance-level explanations.
 
-SHAP: Feature contribution analysis.
+- SHAP: Feature contribution analysis.
 
 ## Performance
 
-Achieved validation accuracies up to 98.6% (PSO+Ensemble).
+- Achieved validation accuracies up to 98.6% (PSO+Ensemble).
 
-Consistently outperformed traditional methods (Random Forest, XGBoost, etc.
+- Consistently outperformed traditional methods (Random Forest, XGBoost, etc.
 
 
 # 📊 Results
 
-### GA + Ensemble: 97.8% accuracy
+- **GA + Ensemble: 97.8% accuracy**
 
-### PSO + Ensemble: 98.6% accuracy
+- **PSO + Ensemble: 98.6% accuracy**
 
-### Interpolation Dense: 94.7% accuracy
+- **Interpolation Dense: 94.7% accuracy**
 
-### LIME & SHAP: 0.99–1.00 interpretability score
+- **LIME & SHAP: 0.99–1.00 interpretability score**
 
 These results significantly outperform traditional algorithms like Random Forest (54.4%) and XGBoost (55.5%).
 
