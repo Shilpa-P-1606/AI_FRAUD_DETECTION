@@ -16,6 +16,8 @@ Fraudulent activities pose a significant risk to financial institutions. Traditi
 
 The model is tested on financial datasets of Visegrad companies, addressing challenges of imbalanced data and enhancing interpretability.
 
+---
+
 # 🚀 Features
 
 ## Data Preprocessing
@@ -63,11 +65,15 @@ The model is tested on financial datasets of Visegrad companies, addressing chal
 
 These results significantly outperform traditional algorithms like Random Forest (54.4%) and XGBoost (55.5%).
 
+---
+
 # 🛠️ Tech Stack
 
 - Languages: Python
 - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, XGBoost, Imbalanced-learn, Matplotlib, Seaborn, LIME, SHAP
 - Optimization: Genetic Algorithms, Particle Swarm Optimization
+
+---
 
 # 📂 Project Structure
 
@@ -77,9 +83,13 @@ These results significantly outperform traditional algorithms like Random Forest
 - requirements.txt            # modules needed to install
 - README.md                   # Documentation (this file)
 
+---
+
 # 📹 Demo
 
 ### YouTube presentation: Watch here (https://www.youtube.com/watch?v=MrVW2XWWpcI)
+
+---
 
 # 🔮 Future Scope
 
@@ -90,6 +100,8 @@ These results significantly outperform traditional algorithms like Random Forest
 - Develop adaptive models for evolving fraud patterns.
 
 - Collaborate with financial institutions for deployment.
+  
+---
 
 ## ⭐ Closing Notes
 
@@ -99,3 +111,4 @@ By integrating **PSO, GA, Deep Learning, and XAI (LIME & SHAP)**, we’ve shown 
 
 We welcome contributions, suggestions, and collaborations to extend this work further.  
 If you find this useful, please ⭐ star the repository to support the project!
+
